@@ -68,12 +68,11 @@ class Sj(AbstractAPI):
         """
         Получает список вакансий по ключевому слову key_word
         и возвращает словарь с нефильтрованными вакансиями
-        SJ_API_KEY
+        (необходимо создать переменную окружения SJ_API_KEY с
+        ключом доступа к SuperJob)
         """
 
         sj_api_key = os.environ.get('SJ_API_KEY')
-        print("ключ", sj_api_key)
-
         headers = {"X-Api-App-Id": sj_api_key}
         params = {"keyword": key_word}
         response = requests.get("https://api.superjob.ru/2.0/vacancies/", params=params, headers=headers).json()

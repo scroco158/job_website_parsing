@@ -1,100 +1,282 @@
 [
     {
-        "name": "Биолог",
-        "url": "https://spb.superjob.ru/vakansii/biolog-48278931.html",
+        "name": "Старший аналитик данных в CRM (Отдел анализа эффективности некредитного направления)",
+        "url": "https://www.superjob.ru/vakansii/starshij-analitik-dannyh-v-crm-46759846.html",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Сетевой инженер",
+        "url": "https://spb.superjob.ru/vakansii/setevoj-inzhener-46941423.html",
+        "salary_from": 70000,
+        "salary_to": 100000,
+        "description": null
+    },
+    {
+        "name": "Эксперт по управлению сетями связи",
+        "url": "https://krasnodar.superjob.ru/vakansii/ekspert-po-upravleniyu-setyami-svyazi-47999632.html",
+        "salary_from": 100000,
+        "salary_to": 130000,
+        "description": null
+    },
+    {
+        "name": "Маркетинговый аналитик",
+        "url": "https://www.superjob.ru/vakansii/marketingovyj-analitik-47506340.html",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Специалист по информационной безопасности",
+        "url": "https://obninsk.superjob.ru/vakansii/specialist-po-informacionnoj-bezopasnosti-47702106.html",
+        "salary_from": 60000,
+        "salary_to": 70000,
+        "description": null
+    },
+    {
+        "name": "Системный администратор",
+        "url": "https://volokolamsk.superjob.ru/vakansii/sistemnyj-administrator-32479990.html",
+        "salary_from": 80000,
+        "salary_to": 0,
+        "description": "- Обеспечение требуемого уровня безопасности, отказоустойчивости, масштабируемости и производительности ИТ-инфраструктуры компании;\n- Обеспечение бесперебойной работы и доступности ИТ-серверов компании;\n- обеспечение сохранности корпоративных данных, а также их оперативного восстановления в случае утери или сбоя;\n- администрирование серверного и сетевого оборудования (Mikrotik, Ubiquiti, HP);\n- администрирование серверных ОС (МS Windows Server 2008/2012/2016 и решений (MS Exchange, MS SQL, MS Lync, HYPER-V и др.));\n- администрирование и поддержание в актуальном состоянии документации по ИТ-инфраструктуре;\n- реализация проектов и выполнение задач по развитию ИТ-инфраструктуры и ИТ-серверов в соответствии с потребностями компании;\n- поддержка пользователей (150 пользователей)\n- обслуживание оргтехники,\n- прокладка СКС,\n- подключение и настройка видеокамер\n- администрирование баз 1с"
+    },
+    {
+        "name": "Педагог дополнительного образования, руководитель центра цифрового образования (ИнфинІТи)",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-37485346.html",
+        "salary_from": 40000,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Преподаватель программирования, веб-разработки",
+        "url": "https://volgograd.superjob.ru/vakansii/prepodavatel-programmirovaniya-38561557.html",
+        "salary_from": 40000,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Инженер-программист",
+        "url": "https://astrakhan.superjob.ru/vakansii/inzhener-programmist-43503556.html",
+        "salary_from": 39826,
+        "salary_to": 39826,
+        "description": null
+    },
+    {
+        "name": "Программист",
+        "url": "https://kolomna.superjob.ru/vakansii/programmist-45594068.html",
         "salary_from": 60000,
         "salary_to": 0,
         "description": null
     },
     {
-        "name": "Биолог",
-        "url": "https://nn.superjob.ru/vakansii/biolog-48539101.html",
+        "name": "Учитель по программированию",
+        "url": "https://andreevka.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698480.html",
+        "salary_from": 0,
+        "salary_to": 60000,
+        "description": null
+    },
+    {
+        "name": "Системный инженер",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-inzhener-46296771.html",
+        "salary_from": 170000,
+        "salary_to": 170000,
+        "description": null
+    },
+    {
+        "name": "Преподаватель по программированию",
+        "url": "https://ufa.superjob.ru/vakansii/prepodavatel-po-programmirovaniyu-46638375.html",
+        "salary_from": 1000,
+        "salary_to": 1500,
+        "description": null
+    },
+    {
+        "name": "Инженер-программист",
+        "url": "https://volzhskiy.superjob.ru/vakansii/inzhener-programmist-47078636.html",
         "salary_from": 50000,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Системный администратор Linux",
+        "url": "https://vladimir.superjob.ru/vakansii/sistemnyj-administrator-linux-47120439.html",
+        "salary_from": 0,
+        "salary_to": 69000,
+        "description": null
+    },
+    {
+        "name": "Аналитик в отдел маркетинга",
+        "url": "https://spb.superjob.ru/vakansii/analitik-v-otdel-marketinga-47156361.html",
+        "salary_from": 100000,
+        "salary_to": 130000,
+        "description": null
+    },
+    {
+        "name": "Аналитик",
+        "url": "https://spb.superjob.ru/vakansii/analitik-47453001.html",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Педагог дополнительного образования (АЭРО квантум)",
+        "url": "https://pskov.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-47547702.html",
+        "salary_from": 30000,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Специалист по обработке данных (здравоохранение)",
+        "url": "https://www.superjob.ru/vakansii/specialist-po-obrabotke-dannyh-47195490.html",
+        "salary_from": 0,
         "salary_to": 75000,
         "description": null
     },
     {
-        "name": "Официант в ресторан",
-        "url": "https://krasnogorsk.superjob.ru/vakansii/oficiant-v-restoran-48549078.html",
+        "name": "Campaign Manager / Менеджер кампании",
+        "url": "https://www.superjob.ru/vakansii/campaign-manager-47751963.html",
+        "salary_from": 220000,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Системный администратор",
+        "url": "https://smolensk.superjob.ru/vakansii/sistemnyj-administrator-47798009.html",
+        "salary_from": 60000,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Учитель информатики",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-47820018.html",
         "salary_from": 90000,
         "salary_to": 0,
         "description": null
     },
     {
-        "name": "Водитель службы доставки на Новую Ригу",
-        "url": "https://krasnogorsk.superjob.ru/vakansii/voditel-sluzhby-dostavki-na-novuyu-rigu-48549156.html",
-        "salary_from": 70000,
+        "name": "DevOps Team Lead",
+        "url": "https://nn.superjob.ru/vakansii/devops-team-lead-42890350.html",
+        "salary_from": 0,
         "salary_to": 0,
         "description": null
     },
     {
-        "name": "Водитель службы доставки на Новую Ригу",
-        "url": "https://nakhabino.superjob.ru/vakansii/voditel-sluzhby-dostavki-na-novuyu-rigu-48549157.html",
-        "salary_from": 70000,
+        "name": "Начальник сектора",
+        "url": "https://samara.superjob.ru/vakansii/nachalnik-sektora-48029149.html",
+        "salary_from": 0,
         "salary_to": 0,
         "description": null
     },
     {
-        "name": "Менеджер ресторана",
-        "url": "https://krasnogorsk.superjob.ru/vakansii/menedzher-restorana-48555736.html",
-        "salary_from": 84000,
-        "salary_to": 92000,
+        "name": "Преподаватель программирования",
+        "url": "https://odintsovo.superjob.ru/vakansii/prepodavatel-programmirovaniya-48067279.html",
+        "salary_from": 65000,
+        "salary_to": 95000,
         "description": null
     },
     {
-        "name": "Менеджер ресторана",
-        "url": "https://istra.superjob.ru/vakansii/menedzher-restorana-48555737.html",
-        "salary_from": 84000,
-        "salary_to": 92000,
+        "name": "Системный администратор",
+        "url": "https://volgograd.superjob.ru/vakansii/sistemnyj-administrator-47518831.html",
+        "salary_from": 25000,
+        "salary_to": 30000,
         "description": null
     },
     {
-        "name": "Официант в ресторан премиум-класса",
-        "url": "https://krasnogorsk.superjob.ru/vakansii/oficiant-v-restoran-premium-klassa-48555743.html",
+        "name": "Специалист в отдел информационных технологий",
+        "url": "https://nn.superjob.ru/vakansii/specialist-v-otdel-informacionnyh-tehnologij-48303062.html",
+        "salary_from": 0,
+        "salary_to": 40000,
+        "description": null
+    },
+    {
+        "name": "Инженер MQ",
+        "url": "https://kaluga.superjob.ru/vakansii/inzhener-mq-48308554.html",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "DevOps-инженер",
+        "url": "https://www.superjob.ru/vakansii/devops-inzhener-48366477.html",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Ведущий инженер по автоматизированным системам управления производством",
+        "url": "https://norilsk.superjob.ru/vakansii/veduschij-inzhener-po-avtomatizirovannym-sistemam-upravleniya-proizvodstvom-48375210.html",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Python-разработчик (middle) / backend developer",
+        "url": "https://tula.superjob.ru/vakansii/python-razrabotchik-48446482.html",
         "salary_from": 80000,
-        "salary_to": 140000,
+        "salary_to": 130000,
         "description": null
     },
     {
-        "name": "Официант в ресторан премиум-класса",
-        "url": "https://istra.superjob.ru/vakansii/oficiant-v-restoran-premium-klassa-48555744.html",
-        "salary_from": 80000,
-        "salary_to": 140000,
+        "name": "Web-разработчик (backend)",
+        "url": "https://spb.superjob.ru/vakansii/web-razrabotchik-41964533.html",
+        "salary_from": 100000,
+        "salary_to": 0,
         "description": null
     },
     {
-        "name": "Сборщик заказок ресторана/ Менеджер доставки",
-        "url": "https://krasnogorsk.superjob.ru/vakansii/sborschik-zakazok-restorana-48555751.html",
+        "name": "Инженер-радиоэлектронщик 1 категории",
+        "url": "https://www.superjob.ru/vakansii/inzhener-radioelektronschik-1-kategorii-43148990.html",
+        "salary_from": 100000,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Ведущий инженер",
+        "url": "https://spb.superjob.ru/vakansii/veduschij-inzhener-46009011.html",
         "salary_from": 60000,
-        "salary_to": 80000,
+        "salary_to": 0,
         "description": null
     },
     {
-        "name": "Сборщик заказок ресторана/ Менеджер доставки",
-        "url": "https://istra.superjob.ru/vakansii/sborschik-zakazok-restorana-48555752.html",
-        "salary_from": 60000,
-        "salary_to": 80000,
+        "name": "Программист Linux",
+        "url": "https://www.superjob.ru/vakansii/programmist-linux-45695529.html",
+        "salary_from": 100000,
+        "salary_to": 500000,
         "description": null
     },
     {
-        "name": "Врач-генетик лабораторный",
-        "url": "https://www.superjob.ru/vakansii/vrach-genetik-laboratornyj-48024782.html",
+        "name": "Lead / Senior ML Engineer",
+        "url": "https://www.superjob.ru/vakansii/lead-48373584.html",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Системный администратор",
+        "url": "https://www.superjob.ru/vakansii/sistemnyj-administrator-45760672.html",
+        "salary_from": 0,
+        "salary_to": 150000,
+        "description": null
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://www.superjob.ru/vakansii/analitik-dannyh-48443951.html",
+        "salary_from": 100000,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Аналитик эскпорта",
+        "url": "https://www.superjob.ru/vakansii/analitik-eskporta-48457215.html",
+        "salary_from": 0,
+        "salary_to": 100000,
+        "description": null
+    },
+    {
+        "name": "Системный администратор",
+        "url": "https://spb.superjob.ru/vakansii/sistemnyj-administrator-48538256.html",
         "salary_from": 80000,
-        "salary_to": 80000,
-        "description": null
-    },
-    {
-        "name": "Педагог-воспитатель",
-        "url": "https://www.superjob.ru/vakansii/pedagog-vospitatel-48404075.html",
-        "salary_from": 35000,
-        "salary_to": 45000,
-        "description": null
-    },
-    {
-        "name": "Воспитатель / Помощник воспитателя детского сада",
-        "url": "https://www.superjob.ru/vakansii/vospitatel-48417075.html",
-        "salary_from": 45000,
-        "salary_to": 75000,
+        "salary_to": 0,
         "description": null
     }
 ]

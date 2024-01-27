@@ -1,142 +1,142 @@
 [
     {
-        "name": "Биолог",
-        "url": "https://api.hh.ru/vacancies/92124252?host=hh.ru",
-        "salary_from": 50000,
-        "salary_to": 75000,
-        "description": "Выделение ДНК/РНК из различного биологического материала. Проведение <highlighttext>FISH</highlighttext>-исследований. Постановка и анализ данных ПЦР-РВ. Подготовка ДНК для секвенирования..."
+        "name": "Backend-разработчик Python",
+        "url": "https://api.hh.ru/vacancies/91620172?host=hh.ru",
+        "salary_from": 0,
+        "salary_to": 160000,
+        "description": "Разработка API для мобильных и веб-приложений. Интеграция с внутренними и внешними сервисами. Писать тесты для обеспечения высокого качества проекта. "
     },
     {
-        "name": "Водитель категория В",
-        "url": "https://api.hh.ru/vacancies/88336414?host=hh.ru",
-        "salary_from": 2500,
-        "salary_to": 0,
-        "description": "Доставка товаров в торговые точки по г. Минску и РБ. Своевременная сдача документации( ТТН, путевые листы, акты )."
-    },
-    {
-        "name": "Официант",
-        "url": "https://api.hh.ru/vacancies/77201638?host=hh.ru",
-        "salary_from": 4000000,
-        "salary_to": 7000000,
-        "description": "Подготовка посуды. Сервировка столов. Прием заказов от посетителей, помощь в выборе блюд и напитков. Подача заказанного блюда. Вывод окончательной суммы..."
-    },
-    {
-        "name": "Помощник воспитателя",
-        "url": "https://api.hh.ru/vacancies/91624274?host=hh.ru",
+        "name": "Junior Python-программист",
+        "url": "https://api.hh.ru/vacancies/92151999?host=hh.ru",
         "salary_from": 45000,
-        "salary_to": 75000,
-        "description": "Развиваем играя, и на прогулке. - Процесс развития детей, всегда должен быть интересен и детям и педагогу."
-    },
-    {
-        "name": "Администратор службы приема и размещения",
-        "url": "https://api.hh.ru/vacancies/91486924?host=hh.ru",
-        "salary_from": 60000,
-        "salary_to": 80000,
-        "description": "Прием и размещение гостей (check-in/check-out). Бронирование номеров. Работа с кассовым аппаратом, кредитными картами. Взаимодействие со всеми службами..."
-    },
-    {
-        "name": "Маркетолог (e-commerce) (маркетплейсы, товары для дома)",
-        "url": "https://api.hh.ru/vacancies/92072000?host=hh.ru",
-        "salary_from": 80000,
-        "salary_to": 120000,
-        "description": "Вы непосредственно влияете на увеличение объемов продаж на маркетплейсах (WB, Ozon, Яндекс Маркет), знаете точно, какие методики увеличивают продажи. "
-    },
-    {
-        "name": "Менеджер доставки ресторана",
-        "url": "https://api.hh.ru/vacancies/91888530?host=hh.ru",
-        "salary_from": 80000,
         "salary_to": 0,
-        "description": "Принятие заказа ( консультация гостя, осуществление дополнительных продаж, приветливое общение). Работа через систему Р-Кипер. Заказ пропуска на машину, сборка заказа. "
+        "description": "Разработка, поддержка и оптимизация программного кода. Поддержка и оптимизация парсеров. Работа с MS SQL. Создание отчетов."
     },
     {
-        "name": "Биолог",
-        "url": "https://api.hh.ru/vacancies/90781931?host=hh.ru",
-        "salary_from": 60000,
-        "salary_to": 0,
-        "description": "Проведение иммуногистохимических (ИГХ)-исследований. Проведение и анализ <highlighttext>FISH</highlighttext>-исследований. Проведение и анализ ПЦР-исследований (ПЦР в реальном времени на образцах..."
-    },
-    {
-        "name": "Бренд-бармен сети",
-        "url": "https://api.hh.ru/vacancies/91868592?host=hh.ru",
+        "name": "Тестировщик - стажер",
+        "url": "https://api.hh.ru/vacancies/92131751?host=hh.ru",
         "salary_from": 0,
         "salary_to": 0,
-        "description": "Тренинги для персонала, аттестация персонала. Поиск новых интересных продуктов и актуальных трендовых решений современной миксологии. Запуск промо и сезонного меню. "
+        "description": "Проводить функциональное тестирование. Писать автотесты. Заводить дефекты."
     },
     {
-        "name": "Начальник цеха",
-        "url": "https://api.hh.ru/vacancies/91645959?host=hh.ru",
-        "salary_from": 5000000,
+        "name": "Junior backend developer Python",
+        "url": "https://api.hh.ru/vacancies/92011424?host=hh.ru",
+        "salary_from": 0,
         "salary_to": 0,
-        "description": "Составлять и корректировать план производства суточный. Контролировать выполнение суточного задания, его правильность. Составлять суточный отчёт по форме утвержденной на предприятии. "
+        "description": "Разработка приложений на <highlighttext>Python</highlighttext>. Разработка микросервисов на FastAPI. Разработка функционала в Django."
     },
     {
-        "name": "Инженер-конструктор / Инженер-проектировщик",
-        "url": "https://api.hh.ru/vacancies/91869766?host=hh.ru",
-        "salary_from": 170000,
+        "name": "Manual QA Engineer (Mid+)",
+        "url": "https://api.hh.ru/vacancies/92227917?host=hh.ru",
+        "salary_from": 6000,
+        "salary_to": 0,
+        "description": "Conduct functional and non-functional testing. Prepare test documentation. Document defects and monitor their resolution."
+    },
+    {
+        "name": "Python Developer",
+        "url": "https://api.hh.ru/vacancies/91746699?host=hh.ru",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Продумывать архитектуру. Разрабатывать бэк для мобильных приложений с 0 и дорабатывать существующие продукты. Реализовать админку (типовые решения)."
+    },
+    {
+        "name": "Software Test Engineer",
+        "url": "https://api.hh.ru/vacancies/91214153?host=hh.ru",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Ensure that the design and customer requirements are correctly translated into all test plans and proceduresIdentify and select simulators and..."
+    },
+    {
+        "name": "Frontend-разработчик (стажер)",
+        "url": "https://api.hh.ru/vacancies/92224457?host=hh.ru",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Топ 10 Рейтинга агентств разработки корпоративных решений под ключ. Топ 30 Рейтинга разработчиков корпоративных решений. Принимать участие в разработке и..."
+    },
+    {
+        "name": "Backend developer",
+        "url": "https://api.hh.ru/vacancies/92133824?host=hh.ru",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Мы – аккредитованная IT-компания ОктопусТех, развиваемся в таких областях, как разработка, машинное обучение, компьютерное зрение, маркетинг, коммуникации и автоматизация технологических..."
+    },
+    {
+        "name": "Backend разработчик Python",
+        "url": "https://api.hh.ru/vacancies/91664414?host=hh.ru",
+        "salary_from": 80000,
         "salary_to": 180000,
-        "description": "Участие в составлении исполнительной документации. Проектирование промышленных, складских и общественных зданий. Разработка конструкций в соответствии с коммерческими предложениями и требованиями..."
+        "description": "Разработка пользовательских интерфейсов. Участие в проектировании, выборе и доработке архитектурных и технологических решений. Настройка страниц и компонентов. Кастомизация внешнего вида..."
     },
     {
-        "name": "Менеджер доставки ресторана",
-        "url": "https://api.hh.ru/vacancies/91888531?host=hh.ru",
-        "salary_from": 80000,
-        "salary_to": 0,
-        "description": "Принятие заказа ( консультация гостя, осуществление дополнительных продаж, приветливое общение). Работа через систему Р-Кипер. Заказ пропуска на машину, сборка заказа. "
+        "name": "Программист Python junior",
+        "url": "https://api.hh.ru/vacancies/92010900?host=hh.ru",
+        "salary_from": 85000,
+        "salary_to": 90000,
+        "description": "Разработка ПО для сети доставки контента CDNvideo и автоматизации конфигурирования услуг клиентами (задачи связаны с большими нагрузками (highload) и обработкой..."
     },
     {
-        "name": "Администратор службы приема и размещения",
-        "url": "https://api.hh.ru/vacancies/91486923?host=hh.ru",
+        "name": "Стажер-разработчик",
+        "url": "https://api.hh.ru/vacancies/91368679?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Разработкой, развитие и поддержка Аналитической системы."
+    },
+    {
+        "name": "Стажер-программист Python",
+        "url": "https://api.hh.ru/vacancies/92058258?host=hh.ru",
         "salary_from": 60000,
-        "salary_to": 80000,
-        "description": "Прием и размещение гостей (check-in/check-out). Бронирование номеров. Работа с кассовым аппаратом, кредитными картами. Взаимодействие со всеми службами..."
-    },
-    {
-        "name": "Биолог в цитогенетическую лабораторию",
-        "url": "https://api.hh.ru/vacancies/91787790?host=hh.ru",
-        "salary_from": 120000,
         "salary_to": 0,
-        "description": "Цитогенетическое и молекулярно-цитогенетическое (кариотипирование и <highlighttext>FISH</highlighttext>) исследование клеток костного мозга и периферической крови (онкогематологические и наследственные заболевания). "
+        "description": "Исследования в области компьютерного зрения, нейросетей, взаимодействия различного оборудования между собой по различным цифровым протоколам, анализ и визуализация различных данных. "
     },
     {
-        "name": "Официант в ресторан \"JAPENGO\"",
-        "url": "https://api.hh.ru/vacancies/91557294?host=hh.ru",
-        "salary_from": 40000,
-        "salary_to": 0,
-        "description": "Обеспечение сервиса на высоком уровне. Повышение объемов личных продаж. Сервировка стола в соответствии с установленными стандартами. Контроль за чистотой приборов..."
-    },
-    {
-        "name": "Менеджер ресторана",
-        "url": "https://api.hh.ru/vacancies/91166830?host=hh.ru",
-        "salary_from": 88000,
-        "salary_to": 0,
-        "description": "Проведение тренингов с официантами, контроль уровня сервиса. Поддержание дисциплины во всех подразделениях внутри ресторана. Коммуникация с кухней, отработка комментариев гостей..."
-    },
-    {
-        "name": "Воспитатель / Помощник воспитателя / Няня",
-        "url": "https://api.hh.ru/vacancies/91828009?host=hh.ru",
+        "name": "Разработчик Python/Django",
+        "url": "https://api.hh.ru/vacancies/92282260?host=hh.ru",
         "salary_from": 0,
-        "salary_to": 50000,
-        "description": "Воспитатель в нашем садике осуществляет: - самый бережный уход за детьми. - воспитание. - проведение увлекательных занятий. - организация досуга детей. - кормление. - прогулки. - "
-    },
-    {
-        "name": "Старший бухгалтер",
-        "url": "https://api.hh.ru/vacancies/91230480?host=hh.ru",
-        "salary_from": 300000,
-        "salary_to": 350000,
-        "description": "Ведение бухгалтерского учета, отражение на счетах бухгалтерского учета первичных документов. Учет ТМЦ и основных средств, поступление, перемещение, списание, инвентаризация, ввод..."
-    },
-    {
-        "name": "Менеджер доставки ресторана",
-        "url": "https://api.hh.ru/vacancies/91888534?host=hh.ru",
-        "salary_from": 80000,
         "salary_to": 0,
-        "description": "Принятие заказа ( консультация гостя, осуществление дополнительных продаж, приветливое общение). Работа через систему Р-Кипер. Заказ пропуска на машину, сборка заказа. "
+        "description": "Проектирование и разработка сервисов на <highlighttext>Python</highlighttext>/Django."
     },
     {
-        "name": "Официант",
-        "url": "https://api.hh.ru/vacancies/91589286?host=hh.ru",
-        "salary_from": 120000,
+        "name": "Python Разработчик, работа с Docker",
+        "url": "https://api.hh.ru/vacancies/92269478?host=hh.ru",
+        "salary_from": 0,
         "salary_to": 0,
-        "description": "Обслуживание гостей по стандартам сервиса. Сервировка столов по стандартам. Контроль чистоты и состояния посуды, приборов , бокалов. Расчет гостей."
+        "description": "Разработка и поддержка программного обеспечения на <highlighttext>Python</highlighttext>. - Работа с системами контейнеризации, в частности с Docker. - Администрирование и настройка среды Linux..."
+    },
+    {
+        "name": "Программист Python",
+        "url": "https://api.hh.ru/vacancies/91492295?host=hh.ru",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Что делать: грамотно и качественно разрабатывать бэк, API, архитектуру проектов, работать нужно хорошо и быстро, предупреждая ошибки фронта и других..."
+    },
+    {
+        "name": "Backend developer (python)",
+        "url": "https://api.hh.ru/vacancies/92212974?host=hh.ru",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "DEXes. NFT marketplaces, NFT generators. DAPPs, Index platforms. Security audit. Smart-contracts. Cross-chain solutions. Game-fi, metaverse and etc. "
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://api.hh.ru/vacancies/92081237?host=hh.ru",
+        "salary_from": 400000,
+        "salary_to": 0,
+        "description": "Подключение к различным источникам данных. Формирование выгрузок с помощью SQL-запросов и <highlighttext>Python</highlighttext>. Анализ и выявление тенденций, рисков и аномалий. "
+    },
+    {
+        "name": "Разработчик Python (Junior) / Artist DI",
+        "url": "https://api.hh.ru/vacancies/92156072?host=hh.ru",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Слежение за соблюдение регламента архивации и чистки хранилищ. Легко и быстро обучаем. Проявляешь инициативу в решении поставленных задач. "
+    },
+    {
+        "name": "Python backend разработчик",
+        "url": "https://api.hh.ru/vacancies/92272853?host=hh.ru",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Отвечать за качество: проводить code review, писать автотесты. Разработки на <highlighttext>Python</highlighttext> 3.X. Интеграции с api внешних приложений. "
     }
 ]
