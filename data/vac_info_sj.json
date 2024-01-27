@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Биолог",
+        "url": "https://spb.superjob.ru/vakansii/biolog-48278931.html",
+        "salary_from": 60000,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Биолог",
+        "url": "https://nn.superjob.ru/vakansii/biolog-48539101.html",
+        "salary_from": 50000,
+        "salary_to": 75000,
+        "description": null
+    },
+    {
+        "name": "Официант в ресторан",
+        "url": "https://krasnogorsk.superjob.ru/vakansii/oficiant-v-restoran-48549078.html",
+        "salary_from": 90000,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Водитель службы доставки на Новую Ригу",
+        "url": "https://krasnogorsk.superjob.ru/vakansii/voditel-sluzhby-dostavki-na-novuyu-rigu-48549156.html",
+        "salary_from": 70000,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Водитель службы доставки на Новую Ригу",
+        "url": "https://nakhabino.superjob.ru/vakansii/voditel-sluzhby-dostavki-na-novuyu-rigu-48549157.html",
+        "salary_from": 70000,
+        "salary_to": 0,
+        "description": null
+    },
+    {
+        "name": "Менеджер ресторана",
+        "url": "https://krasnogorsk.superjob.ru/vakansii/menedzher-restorana-48555736.html",
+        "salary_from": 84000,
+        "salary_to": 92000,
+        "description": null
+    },
+    {
+        "name": "Менеджер ресторана",
+        "url": "https://istra.superjob.ru/vakansii/menedzher-restorana-48555737.html",
+        "salary_from": 84000,
+        "salary_to": 92000,
+        "description": null
+    },
+    {
+        "name": "Официант в ресторан премиум-класса",
+        "url": "https://krasnogorsk.superjob.ru/vakansii/oficiant-v-restoran-premium-klassa-48555743.html",
+        "salary_from": 80000,
+        "salary_to": 140000,
+        "description": null
+    },
+    {
+        "name": "Официант в ресторан премиум-класса",
+        "url": "https://istra.superjob.ru/vakansii/oficiant-v-restoran-premium-klassa-48555744.html",
+        "salary_from": 80000,
+        "salary_to": 140000,
+        "description": null
+    },
+    {
+        "name": "Сборщик заказок ресторана/ Менеджер доставки",
+        "url": "https://krasnogorsk.superjob.ru/vakansii/sborschik-zakazok-restorana-48555751.html",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "description": null
+    },
+    {
+        "name": "Сборщик заказок ресторана/ Менеджер доставки",
+        "url": "https://istra.superjob.ru/vakansii/sborschik-zakazok-restorana-48555752.html",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "description": null
+    },
+    {
+        "name": "Врач-генетик лабораторный",
+        "url": "https://www.superjob.ru/vakansii/vrach-genetik-laboratornyj-48024782.html",
+        "salary_from": 80000,
+        "salary_to": 80000,
+        "description": null
+    },
+    {
+        "name": "Педагог-воспитатель",
+        "url": "https://www.superjob.ru/vakansii/pedagog-vospitatel-48404075.html",
+        "salary_from": 35000,
+        "salary_to": 45000,
+        "description": null
+    },
+    {
+        "name": "Воспитатель / Помощник воспитателя детского сада",
+        "url": "https://www.superjob.ru/vakansii/vospitatel-48417075.html",
+        "salary_from": 45000,
+        "salary_to": 75000,
+        "description": null
+    }
+]
